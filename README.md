@@ -1,6 +1,5 @@
 # varioustools
-#some useful python tricks
 
-a = ['bla', 'blabla', 'blablabla']
+Just a collection of various scripts and ideas
 
-print (*a, sep='-')
+
